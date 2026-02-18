@@ -1,43 +1,67 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shlok Kakade
-=====================================================================================================================================
+<h1 align="center">Hi 👋, I'm Shlok Kakade</h1>
+<h3 align="center">Full Stack Developer</h3>
 
-I am a Full Stack Developer
---------------------
+---
 
-* 🌍  I'm based in Mumbai
-* 🖥️  See my portfolio at [shlokkakade.com](http://shlokkakade.com)
-* ✉️  You can contact me at [shlokkakade@gmail.com](mailto:shlokkakade@gmail.com)
-* 🧠  I'm currently learning MERN Stack and loving every bug I fix.
-* 👥  I'm looking to collaborate on ML collabs, datasets, algorithms, model training, and anything that pushes boundaries.
-* 💬  Ask me about I debug faster with music on — and yes, I think I’m funny too 😄
+### 🧑‍💻 About Me  
+- 🌍 Based in Mumbai  
+- 🖥️ Portfolio: **[shlokkakade.com](http://shlokkakade.com)**  
+- ✉️ Contact: **shlokkakade@gmail.com**  
+- 🧠 Learning MERN Stack, fixing bugs, breaking limits  
+- 🤝 Open to ML collaborations, datasets & model training  
+- 😄 Fun fact: I debug faster with music on  
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" alt="MetaMask" title="MetaMask" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
+---
+
+### 🛠️ Skills  
+<p align="center">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="40"/></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40"/></a>
+<a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40"/></a>
+<a href="https://python.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40"/></a>
+<a href="https://code.visualstudio.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40"/></a>
+<a href="https://spring.io"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" width="40"/></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML5"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40"/></a>
+<a href="https://reactjs.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40"/></a>
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40"/></a>
+<a href="https://mongodb.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40"/></a>
+<a href="https://metamask.io"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="40"/></a>
+<a href="https://linux.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40"/></a>
+<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="40"/></a>
 </p>
 
-### Socials
+---
 
-<p align="left"> </a> <a href="https://www.x.com/shlokakade" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/shlokkakade" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.x.com/shlokakade" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/shlokakade?logo=twitter&style=for-the-badge&color=facc15&labelColor=000000"
-/></a>
+### 🌐 Socials  
+<p align="center">
+<a href="https://x.com/shlokkakade"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="35"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/shlokkakade"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="35"/></a>
+</p>
 
-### Stats
+<p align="center">
+<img src="https://img.shields.io/twitter/follow/shlokkakade?logo=twitter&style=for-the-badge&color=facc15&labelColor=000000" />
+</p>
 
+---
+
+## 📊 Stats  
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img
-    src="https://awesome-github-stats.azurewebsites.net/user-stats/shlokkakde?cardType=github&theme=dark&fontFamily=&preferLogin=false&Points.ContributedToNotOwnerRepositories=11.1&Ring=FFFFFF&Border=000000&Title=FFFFFF"
-    width="500"
-  />
+### 🔥 GitHub Stats  
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/shlokkakde?cardType=github&theme=dark&border=000000&Title=FFFFFF" width="500" />
 
-  <br/>
+<br/><br/>
 
-  <!-- LeetCode Stats -->
-  <img
-    src="https://leetcard.jacoblin.cool/shlokkakade?theme=light&font=Gayathri&ext=heatmap"
-    width="500"
-  />
+### 🌈 Most Used Languages  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shlokkakde&theme=github_dark" width="500" />
+
+<br/><br/>
+
+### 💪LeetCode Stats  
+<img src="https://leetcard.jacoblin.cool/shlokkakade?theme=light&font=JetBrains%20Mono&ext=heatmap" width="500"/>
 
 </div>
+
+---
+
